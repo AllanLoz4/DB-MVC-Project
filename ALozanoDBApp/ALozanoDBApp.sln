@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALozanoDBApp", "ALozanoDBApp.csproj", "{660ECE24-1C86-4434-A36E-8D8751F7581E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{660ECE24-1C86-4434-A36E-8D8751F7581E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660ECE24-1C86-4434-A36E-8D8751F7581E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660ECE24-1C86-4434-A36E-8D8751F7581E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660ECE24-1C86-4434-A36E-8D8751F7581E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46F7FD8E-FE7F-4CDC-9FFD-96427F8F2CF8}
+	EndGlobalSection
+EndGlobal
